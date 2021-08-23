@@ -1,0 +1,13 @@
+node_modules
+dist
+
+.idea
+.vscode
+
+data/caches
+data/backups
+data/attachments
+data/temp
+test.ts
+anichi-db
+
